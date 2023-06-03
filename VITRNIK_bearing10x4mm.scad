@@ -1,4 +1,4 @@
-//Seed of life windmill
+//Seed of life windmill - VITRNIK
 //Made by Bob Heida in Bystricka, Morava, CZ 
 //(C)2023
 
